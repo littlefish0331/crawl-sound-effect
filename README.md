@@ -2,8 +2,8 @@
 
 更新時間: 2021-07-25
 
-這個專案是為了 「Tbrain - Tomofun 狗音辨識 AI 百萬挑戰賽」。  
-要收集其他公開的音效檔。
+這個專案是為了 「[Tbrain - Tomofun 狗音辨識 AI 百萬挑戰賽](https://tbrain.trendmicro.com.tw/Competitions/Details/15)」。  
+要收集其他外部的聲音，增加訓練資料量，以增前模型的準確度。
 
 目前要爬取的網站，以及目標如下。  
 
